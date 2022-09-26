@@ -77,3 +77,4 @@
   [Talk]
   - p59 PowerUserAccess. IAMFullAccess 좀 조심해야될거같다
   - p61 그래서 이 계정은 어떻게 로그인하는거지?
+
